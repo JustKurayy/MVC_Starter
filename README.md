@@ -1,7 +1,7 @@
 # MVC_Starter
  Instantly create an MVC PHP Project
 
-VHOST CONFIGURE FILE:
+VHOST CONFIGURE FILE LOCATION: YOUR_XAMPP_LOCATION/apache/conf/extra/httpd-vhosts.conf
 ```
 <VirtualHost *:80>
 DocumentRoot "C:/xampp/htdocs"
